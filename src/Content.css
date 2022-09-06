@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    background-color: #eee;
+    justify-content: center;
+}
+
+.center {
+    column-count: 3;
+    width: 1200px;
+}
+
+.h1{
+    display: flex;
+    justify-content: center;
+
+}
